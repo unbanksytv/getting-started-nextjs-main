@@ -63,7 +63,7 @@ export default function Home() {
           name="prompt"
           placeholder="Enter a prompt to display an image"
         />
-        <button type="submit">Go!</button>
+        <button type="submit">LFGooo!</button>
       </form>
 
       {error && <div>{error}</div>}
