@@ -50,7 +50,7 @@ export default function Home() {
       </Head>
 
       <p>
-        Dream something with{" "}
+        Anon, You can dream something with{" "}
         <a href="https://replicate.com/stability-ai/stable-diffusion">
           stability-ai/stable-diffusion
         </a>
